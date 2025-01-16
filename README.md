@@ -8,23 +8,24 @@ This repository contains a Python bot that generates AI-based content using the 
 
 **Content Generation:**
 
-The bot sends a prompt to the Groq API and receives AI-generated text.
+- The bot sends a prompt to the Groq API and receives AI-generated text.
 
 **Reddit Interaction:**
 
-Using PRAW, the bot connects to the specified subreddit.
+- Using PRAW, the bot connects to the specified subreddit.
 
-Posts the generated content as a new submission.
+- Posts the generated content as a new submission.
 
-Comments on the latest posts in the subreddit with AI-generated replies.
+- Comments on the latest posts in the subreddit with AI-generated replies.
 
 **Scheduling:**
 
-Tasks for posting and commenting are scheduled using the schedule library.
+- Tasks for posting and commenting are scheduled using the schedule library.
+- Define the time at which the post has to be made daily.
 
-Logging:
+**Logging:**
 
-All actions, including errors and successful tasks, are logged in bot.log for future reference.
+- All actions, including errors and successful tasks, are logged in bot.log for future reference.
 
 ## Features
 
