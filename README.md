@@ -1,7 +1,5 @@
 # Reddit_Post_Bot
 
-# AI-Generated Reddit Bot
-
 This repository contains a Python bot that generates AI-based content using the Groq API and posts it to Reddit. The bot also includes functionality to comment on posts in a specified subreddit. The bot uses the PRAW (Python Reddit API Wrapper) library for Reddit interaction and the `groq` library for AI-generated content.
 
 ## Working of the Code
