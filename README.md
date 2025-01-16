@@ -113,12 +113,3 @@ All actions, including errors and successful tasks, are logged in bot.log for fu
 - Errors related to the Groq API or Reddit API are logged in `bot.log`.
 - Common issues include invalid API keys, network errors, or rate limits.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## Contact
-For questions or support, contact [your-email@example.com](mailto:your-email@example.com).
-
