@@ -1,0 +1,326 @@
+2025-01-15 00:19:52,343 - INFO - Bot started successfully.
+2025-01-15 00:20:18,893 - INFO - Bot stopped by user.
+2025-01-15 09:35:03,178 - INFO - Bot started successfully.
+2025-01-15 09:36:00,315 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FCC9E97740>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 09:59:05,552 - INFO - Bot stopped by user.
+2025-01-15 10:01:19,142 - INFO - Bot started successfully.
+2025-01-15 10:02:19,191 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE9788290>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:20,207 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984C200>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:21,209 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984C9B0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:22,213 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE981BDD0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:23,216 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984C9B0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:24,224 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984C110>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:25,227 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984D490>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:26,232 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984DD60>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:27,235 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE981B350>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:28,238 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984D6A0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:29,245 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984D4C0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:30,248 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984C260>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:31,252 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984E780>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:32,254 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984F0E0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:33,257 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE981B2F0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:34,432 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984EBD0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:35,437 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984CAA0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:36,440 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984D3A0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:37,444 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984DCD0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:38,451 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984F560>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:39,469 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE9788290>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:40,471 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984CEF0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:41,475 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984C530>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:42,478 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984EC60>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:43,481 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984F800>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:44,496 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984C740>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:45,498 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984C500>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:46,501 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984EAE0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:47,503 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984D280>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:48,517 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE981B3E0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:49,531 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE9868440>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:50,535 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE981BDA0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:51,537 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984DB80>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:52,540 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984C1A0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:53,543 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984F680>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:54,562 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984FB30>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:55,566 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE98684A0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:56,567 - ERROR - Error with Groq API: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDE984FF50>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-15 10:02:56,703 - INFO - Bot stopped by user.
+2025-01-15 10:16:09,372 - INFO - Bot started successfully.
+2025-01-15 10:17:10,935 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:12,347 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:13,377 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:15,193 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:15,713 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:16,153 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:17,642 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:18,339 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:19,797 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:20,525 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:21,916 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:22,314 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:22,762 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:24,180 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:24,577 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:26,990 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:27,454 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:29,000 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:29,401 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:29,813 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:31,273 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:32,023 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:33,457 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:33,968 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:35,385 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:36,861 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:38,271 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:38,656 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:39,092 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:40,760 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:41,227 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:43,639 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:44,083 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:45,617 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:46,057 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:48,882 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:50,584 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:51,057 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:52,208 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:53,270 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:53,706 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:55,132 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:56,151 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:56,568 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:56,980 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:57,387 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:58,862 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:17:59,351 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:00,070 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:01,725 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:02,132 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:02,548 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:03,962 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:04,368 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:05,031 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:06,442 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:06,891 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:08,289 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:08,753 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:10,235 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:10,677 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:12,488 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:13,912 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:14,333 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:15,074 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:16,488 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:17,117 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:17,519 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:20,053 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:21,144 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:21,569 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:22,013 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:23,477 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:25,100 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:26,159 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:26,637 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:27,855 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:28,267 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:28,699 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:31,144 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:31,551 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:31,962 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:32,758 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:33,265 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:34,561 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:34,970 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:35,577 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:36,057 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:38,620 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:39,048 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:39,594 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:40,012 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:40,433 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:40,842 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:41,261 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:41,972 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:42,691 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:43,158 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:45,418 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:46,848 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:47,258 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:47,732 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:48,181 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:48,656 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:50,058 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:50,460 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:51,263 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:51,688 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:53,300 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:54,381 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:54,785 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:55,307 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:55,718 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:56,143 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:56,541 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:56,972 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:58,422 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:18:59,498 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:00,017 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:00,462 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:00,887 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:01,316 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:01,786 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:02,922 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:04,327 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:04,736 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:05,333 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:05,766 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:06,194 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:06,692 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:07,229 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:07,628 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:08,061 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:09,899 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:10,392 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:10,797 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:11,193 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:11,590 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:12,006 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:12,391 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:12,820 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:13,254 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:14,653 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:15,331 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:15,854 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:16,263 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:16,666 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:17,082 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:17,576 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:18,996 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:19,408 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:19,806 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:20,212 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:20,717 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:21,105 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:21,549 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:22,950 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:23,373 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:23,808 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:24,238 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:26,197 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:26,632 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:27,031 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:28,458 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:28,870 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:29,829 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:31,293 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:31,719 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:32,167 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:33,582 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:34,318 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:34,711 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:35,137 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:36,581 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:37,003 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:37,466 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:37,992 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:38,437 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:39,979 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:40,464 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:40,865 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:42,293 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:42,724 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:43,152 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:43,561 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:43,972 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:45,375 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:45,832 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:46,254 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:47,425 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:48,864 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:49,343 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:49,829 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:50,892 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:51,551 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:53,235 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:53,648 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:54,048 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:54,471 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:54,872 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:57,618 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:58,035 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:58,451 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:58,859 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:59,309 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:19:59,717 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:01,177 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:01,597 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:02,675 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:03,090 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:03,796 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:04,519 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:05,030 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:05,436 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:06,988 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:07,404 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:07,893 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:08,325 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:08,806 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:09,324 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:10,147 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:10,544 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:10,965 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:11,372 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:12,842 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:13,626 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:14,040 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:14,453 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:14,842 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:15,266 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:15,692 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:16,103 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:16,499 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:17,686 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:19,109 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:21,863 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:22,321 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:22,726 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:23,479 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:23,876 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:24,285 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:24,685 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:25,116 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:25,547 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:26,037 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:26,441 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:26,861 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:27,247 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:27,701 - ERROR - Error with Groq API: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-15 10:20:27,977 - INFO - Bot stopped by user.
+2025-01-15 14:52:55,799 - INFO - Bot started successfully.
+2025-01-15 14:53:57,051 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:53:59,927 - INFO - Posted to Reddit: Here's one: Did you know that the first computer bug was an actual insect? In 1947, a team of engineers was working on the Harvard Mark II computer when they found a moth stuck in one of the relays. They taped the moth to the computer log and wrote "First actual case of bug being found" next to it. From then on, any technical glitch or error was referred to as a "bug"!
+2025-01-15 14:54:01,712 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:02,262 - INFO - Posted to Reddit: Fun fact: The first smartphone was the IBM Simon, released in 1994. It had a touchscreen display, email, fax, and phone capabilities, as well as a calendar and address book. It even had games like tic-tac-toe and could send faxes - all for the hefty price of $1,000 (around $1,800 today). This 'brick' of a phone weighed in at 18 ounces and had a battery life of about 8 hours. Who knew the first smartphone was such a powerhouse (literally!)?
+2025-01-15 14:54:03,124 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:03,741 - INFO - Posted to Reddit: Here's a fun fact: The first smartphone was the IBM Simon, which was released in 1994. It had a touchscreen display, email, fax, and phone capabilities, as well as a calendar and address book. It even had a few games, including tic-tac-toe and a crossword puzzle. The device weighed in at a whopping 18 ounces and had a price tag of around $1,000. Despite its bulky size and high cost, the IBM Simon paved the way for the modern smartphones we use today.
+2025-01-15 14:54:04,565 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:05,112 - INFO - Posted to Reddit: Fun fact: The first smartphone was the IBM Simon, released in 1994. It had a touchscreen display, email, fax, and phone capabilities, as well as a calendar and address book. But here's the coolest part: it also had a built-in keyboard that could be used to send faxes and emails, and it could even send and receive fax messages. The IBM Simon was a hefty device, weighing in at about 18 ounces and costing around $1,000. Despite its bulk and high price, it was a groundbreaking device that paved the way for the smartphones we use today.
+2025-01-15 14:54:05,841 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:06,388 - INFO - Posted to Reddit: Fun fact: The first smartphone was the IBM Simon, released in 1994. It had a touchscreen display, email, fax, and phone capabilities, as well as a calendar and address book. It even had a few games, including tic-tac-toe and a calculator. The device weighed in at around 18 ounces and had a price tag of $999. Despite its bulky design and steep price, the IBM Simon paved the way for the modern smartphones we use today.
+2025-01-15 14:54:07,275 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:07,826 - INFO - Posted to Reddit: Here's a fun fact: The first smartphone was the IBM Simon, released in 1994. It had a touchscreen display, email, fax, and phone capabilities, as well as a calendar and address book. But the most surprising feature? It could even send and receive faxes, and had a built-in keyboard that could be used for emailing and note-taking. The device weighed in at a whopping 18 ounces and had a price tag of around $1,000. Who knew our smartphones had such a cool (and bulky) ancestor?
+2025-01-15 14:54:09,629 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:10,185 - INFO - Posted to Reddit: Here's a fun fact: The first webcam was created to monitor a coffee pot. In 1991, a group of computer scientists at Cambridge University set up a camera to keep an eye on the coffee pot in their break room, so they could avoid getting up to find it empty. This humble beginnings of webcam technology has since evolved to become an essential part of our daily lives, from video conferencing to live streaming. Who knew that a simple coffee pot could spark such a significant innovation?
+2025-01-15 14:54:10,876 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:11,406 - INFO - Posted to Reddit: Fun fact: The first webcam was created to monitor a coffee pot. In 1991, a group of computer scientists at Cambridge University invented the first webcam to check the coffee pot in their break room without having to get up and check it themselves. They called it the "Trojan Room Coffee Pot" and it was a simple camera that streamed a live image of the coffee pot to the internet. Who knew the humble beginnings of webcam technology were fueled by a desire for caffeine?
+2025-01-15 14:54:12,416 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:13,053 - INFO - Posted to Reddit: Here's a fun fact: The first smartphone was the IBM Simon, released in 1994. It had a touchscreen display, email, fax, and phone capabilities, as well as a calendar and address book. It even had a few games, including tic-tac-toe and a crossword puzzle. But the most interesting part? It weighed in at a hefty 18 ounces (510 grams) and had a price tag of around $1,000 - equivalent to about $1,800 today. Who knew our smartphones had such a bulky and expensive ancestor?
+2025-01-15 14:54:14,022 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:14,641 - INFO - Posted to Reddit: Here's a fun fact: Did you know that the first smartphone, the IBM Simon, was released in 1994 and had a touchscreen display, email, fax, and even a crude version of the internet? It also had a built-in address book, calendar, and notepad, and could even send and receive faxes. This device was a huge brick of a phone, weighing in at 18 ounces and measuring 5 inches by 8 inches by 1.5 inches, but it paved the way for the sleek and powerful smartphones we use today. Pretty cool, right?
+2025-01-15 14:54:15,478 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:16,297 - INFO - Posted to Reddit: Here's a fun fact: The first computer bug was an actual insect. In 1947, a team of engineers were working on the Harvard Mark II computer when they found a moth stuck in one of the relays, causing the machine to malfunction. They taped the moth to the computer log and wrote "First actual case of bug being found" next to it, and from then on, any technical glitch or error was referred to as a "bug."
+2025-01-15 14:54:17,070 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:17,615 - INFO - Posted to Reddit: Here's a fun fact: The first computer bug was an actual insect. In 1947, a team of engineers was working on the Harvard Mark II computer when they found a moth stuck in one of the relays. They taped the moth to the computer log and wrote "First actual case of bug being found" next to it. From then on, any glitch or error in the system was referred to as a "bug."
+2025-01-15 14:54:18,334 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:18,982 - INFO - Posted to Reddit: Here's a fun fact: The first computer bug was an actual insect. In 1947, a team of engineers was working on the Harvard Mark II computer when they found a moth stuck in one of the relays. They taped the moth to the computer log and wrote "First actual case of bug being found" next to it. From then on, any technical glitch or error was referred to as a "bug."
+2025-01-15 14:54:19,739 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:54:20,403 - INFO - Posted to Reddit: Here's a fun fact: The first smartphone was the IBM Simon, released in 1994. It had a touchscreen display, email, fax, and phone capabilities, as well as a calendar and address book. It even had a few games, including Tic-Tac-Toe and a crossword puzzle. The device weighed in at a hefty 18 ounces and had a price tag of around $1,000. Despite its bulky size and steep price, the IBM Simon paved the way for the modern smartphones we use today.
+2025-01-15 14:54:20,477 - INFO - Bot stopped by user.
